@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held for the county of Cornwall, at Lanceston, March xviii. MDCLXXXV. By Nicolas Kendall, A.M. and Rector of Sheviock in Cornwall</title>
+            <author>[Kendall, Nicholas, fl. 1686]</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87676</idno>
+            <idno type="STC">Wing K288A</idno>
+            <idno type="STC">ESTC R230349</idno>
+            <idno type="EEBO-CITATION">99896259</idno>
+            <idno type="PROQUEST">99896259</idno>
+            <idno type="VID">154015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held for the county of Cornwall, at Lanceston, March xviii. MDCLXXXV. By Nicolas Kendall, A.M. and Rector of Sheviock in Cornwall</title>
+                  <author>[Kendall, Nicholas, fl. 1686]</author>
+               </titleStmt>
+               <extent>[4], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Royston, bookseller to his most sacred Majesty; and are to be sold by George May, bookseller in Exeter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154015:1"/>
+            <p>A SERMON PREACHED AT THE ASSIZES Held for the County of <hi>CORNWALL,</hi> AT <hi>LANCESTON,</hi> MARCH xviii. MDCLXXXV.</p>
+            <p>By <hi>NICOLAS KENDALL,</hi> A. M. and Rector of <hi>Sheviock</hi> in <hi>Cornwall.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton,</hi> Bookſeller to His moſt Sacred Majeſty; and are to be ſold by <hi>George May,</hi> Bookſeller in <hi>Exeter.</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154015:2"/>
+            <pb facs="tcp:154015:2"/>
+            <head>TO THE Right Honourable Sir <hi>EDWARD HERBERT</hi> Lord Chief Juſtice of <hi>England;</hi> AND Sir <hi>ROBERT WRIGHT</hi> One of the Judges of his Majeſty's Court of <hi>King's Bench.</hi>
+            </head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g>R Lordſhips having ex<g ref="char:EOLhyphen"/>preſs'd a deſire, that the Diſ<g ref="char:EOLhyphen"/>courſe You were pleaſed to hear with patience at the Aſſizes in <hi>Cornwall,</hi> ſhould be made publick; I have ad<g ref="char:EOLhyphen"/>ventured it into the World, upon no other ground, but in obedience to Your Lordſhips Commands, and in hope of Your favourable Protection;
+<pb facs="tcp:154015:3"/>which as it muſt wholly proceed from Your own Goodneſs and Generoſity, and is not pretended unto by any me<g ref="char:EOLhyphen"/>rit either in the Author, or the thing it ſelf; ſo I truſt it will be a clearer Inſtance of Your Lordſhips Endea<g ref="char:EOLhyphen"/>vours to promote any thing that may tend to the good of the Publick: and it will alſo lay a greater obligation upon</p>
+            <closer>
+               <dateline>
+                  <date>April <hi>10. 1686.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Lordſhips in all Duty moſt highly obliged Servant, Nicolas Kendall.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:154015:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 Sam. ii. 25. former part of the Verſe.</hi>
+                  </bibl>
+                  <p>If one man ſin against another, the Judge ſhall judge him; but if a man ſin against the Lord, who ſhall intreat for him?</p>
+               </q>
+            </epigraph>
+            <p>IT has been obſerved concerning the <hi>Sanctions of humane Laws,</hi> that they have generally reſpect, rather to the <hi>bad Examples</hi> of Crimes, and the in<g ref="char:EOLhyphen"/>fluence they may have upon the <hi>Publick,</hi> than to the nature of the <hi>Crimes themſelves:</hi> And hence it comes to paſs that ſeverer puniſhments are inflicted upon <hi>ſome Of<g ref="char:EOLhyphen"/>fenders,</hi> though their guilt in it ſelf conſi<g ref="char:EOLhyphen"/>dered, may be leſs than that of thoſe who eſcape <hi>unpuniſh'd.</hi> For the great end of all Laws being the conſervation of the <hi>Publick Good,</hi> and maintaining a <hi>Common Intereſt;</hi> as long as that is ſecur'd, men trouble not themſelves ſo much about
+<pb n="2" facs="tcp:154015:4"/>thoſe things, wherein the <hi>Commonweal</hi> is not concern'd. Not to give inſtances of this nearer home, 'tis ſaid that in the <hi>Eaſtern Parts</hi> of the World, where men live pro<g ref="char:EOLhyphen"/>miſcuouſly together, and have all things as it were in <hi>common;</hi> a ſmall <hi>theft</hi> is thought to deſerve the utmoſt <hi>penalty,</hi> be<g ref="char:EOLhyphen"/>cauſe it is impoſſible they ſhould ſubſiſt, in their way of living, unleſs they were very ſecure, that one dar'd not invade what was another man's. So true is it what old <hi>Eli</hi> has obſerv'd in the words be<g ref="char:EOLhyphen"/>fore us, That <hi>if one man ſin againſt another,</hi> if one man touches another in his Perſon or Intereſt, the Remedy is eaſie, <hi>the Law is open,</hi> or (as Dr. <hi>Hammond</hi> more critical<g ref="char:EOLhyphen"/>ly renders <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the Aſſizes are held, they may <hi>implead one another,</hi> and <hi>the Judge ſhall judge him;</hi> but <hi>if a man ſin a<g ref="char:EOLhyphen"/>gainst God,</hi> the caſe is not ſo; he is not in a capacity of making any ſatisfaction to the Divine Majeſty, and few will dare to interpoſe on the behalf of ſuch an Of<g ref="char:EOLhyphen"/>fender: <hi>If a man ſin againſt the Lord, who ſhall intreat for him?</hi>
+            </p>
+            <pb n="3" facs="tcp:154015:4"/>
+            <p>In which Words there is an evident diſtinction ſuppos'd between <hi>two ſorts of ſins, one,</hi> of thoſe whereby <hi>one man ſins a<g ref="char:EOLhyphen"/>gainſt another,</hi> and then they have their remedy at Law; <hi>Eſt cognitio Civilis aut Ec<g ref="char:EOLhyphen"/>cleſiaſtica quâ res componi poſſunt</hi> (ſaith <hi>Ju<g ref="char:EOLhyphen"/>nius</hi> in his Notes upon this place): the <hi>other</hi> is of ſuch ſins whereby <hi>a man ſins againſt the Lord,</hi> not only as God is the great Le<g ref="char:EOLhyphen"/>giſlator and Governour of the World, for ſo all ſins are againſt him as tranſgreſſions of his Laws; but <hi>ſins</hi> wherein God is a Party, whereby he is prejudiced or diſho<g ref="char:EOLhyphen"/>noured in thoſe things that relate unto him: ſuch was the ſin of <hi>Eli</hi>'s Sons, who prophaned the Sanctuary of God, and brought his Worſhip and Religion into contempt; and in this caſe they could not hope to eſcape either by the mercy and lenity of a <hi>Judge,</hi> or the skill of an <hi>Advocate;</hi> not by the interceſſion of Friends, or making an intereſt with Great Perſons, or the like: <hi>If a man ſin againſt the Lord, who ſhall intreat for him?</hi>
+            </p>
+            <p>I ſhall not trouble you with the diffe<g ref="char:EOLhyphen"/>rent ways of rendring theſe words by ſe<g ref="char:EOLhyphen"/>veral
+<pb n="4" facs="tcp:154015:5"/>Interpreters, occaſioned chiefly by the ambiguity of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which though a Noun of the Plural Number, (yet by a peculiar Idiom of the ſacred Language) ſometimes ſignifies the only <hi>one ſupreme God,</hi> and at other times thoſe whom the <hi>Pſalmiſt</hi> calls <hi>Gods,</hi>
+               <note place="margin">Pſal. 82.1.</note> 
+               <hi>i. e. Magi<g ref="char:EOLhyphen"/>ſtrates and Judges:</hi> but taking our <hi>Engliſh</hi> Verſion to be moſt agreeable both to the <hi>Hebrew truth,</hi> and to the intent of <hi>Eli</hi> in reproving his Sons; I ſhall in my follow<g ref="char:EOLhyphen"/>ing Diſcourſe ſpeak diſtinctly to both theſe ſorts of Sins:
+<list>
+                  <item>I. <hi>Thoſe whereby one man ſins againſt another.</hi>
+                  </item>
+                  <item>II. <hi>Thoſe whereby a man ſins againſt God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I. Of Offences between man and man; of which it is ſaid, <hi>If one man ſin againſt another, the Judge ſhall judge him:</hi> Whence I obſerve theſe three things.</p>
+            <p n="1">1. That <hi>Courts of Judicature,</hi> for the de<g ref="char:EOLhyphen"/>ciſion of ſuch Cauſes as might happen between man and man, was one of <hi>God's
+<pb n="5" facs="tcp:154015:5"/>own Inſtitutions</hi> among his people the Jews. Where <hi>if one man ſinn'd againſt another, the Judge did judge him.</hi>
+            </p>
+            <p n="2">2. That 'tis the great happineſs of any people, when there are ſuch <hi>Courts of Ju<g ref="char:EOLhyphen"/>dicature</hi> open, and the Laws have their free courſe, that ſo <hi>if one man ſin againſt an<g ref="char:EOLhyphen"/>other, the Judge may judge him.</hi>
+            </p>
+            <p n="3">3. That 'tis the Duty of every private perſon to ſubmit himſelf to ſuch <hi>Judgments</hi> and <hi>Sentences, For when one man ſins againſt another, the Judge muſt or ſhall judge him.</hi>
+            </p>
+            <p n="1">1. That <hi>Courts of Judicature,</hi> for the deciſion of, <hi>&amp;c.</hi> While the Lord was their <hi>Political</hi> Sovereign, and their Govern<g ref="char:EOLhyphen"/>ment was (what <hi>Joſephus</hi> truly calls it) a <hi>Theocracy,</hi>
+               <note place="margin">In lib. con<g ref="char:EOLhyphen"/>tra Appion.</note> we find ſuch <hi>Courts</hi> as theſe ere<g ref="char:EOLhyphen"/>cted among them. At the inſtance of <hi>Je<g ref="char:EOLhyphen"/>thro,</hi> together with the command of God himſelf, did <hi>Moſes chuſe able men out of all Iſrael, and made them Heads over the peo<g ref="char:EOLhyphen"/>ple; rulers of thouſands, rulers of hundreds, rulers of fifties, and rulers of tens, and they judged the people at all ſeaſons: the bard Cauſes they brought unto</hi> Moſes, <hi>but every ſmall mat<g ref="char:EOLhyphen"/>ter they judged themſelves,</hi> Exod. 18. Out
+<pb n="6" facs="tcp:154015:6"/>of theſe men (as ſome think) or at leaſt ſuch as theſe did <hi>Moſes</hi> again by God's command <hi>chuſe ſeventy men of the Elders of Iſrael,</hi> Numb. 11. and God indued them with a <hi>Spirit of Prophecy,</hi> that they might be able to inſtruct the people in the Law, and help to bear the burthen of them, which <hi>Moſes</hi> had complain'd was too hea<g ref="char:EOLhyphen"/>vy for him: in agreement to which the <hi>Jews</hi> had always among them a ſupreme Court called the <hi>Sanhedrim,</hi> conſiſting of <hi>ſeventy one perſons,</hi> ſeventy from the num<g ref="char:EOLhyphen"/>ber <hi>Moſes</hi> called unto him, and one whom they looked upon as his <hi>Succeſſor,</hi> and therefore called him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Princeps Sena<g ref="char:EOLhyphen"/>tus,</hi> or <hi>Lord-Chief-Juſtice:</hi> and this High Court exercis'd Juriſdiction over them, not only under thoſe extraordinary <hi>Judges</hi> whom God raiſed up at ſeveral times, and the <hi>Kings</hi> that ſucceeded them; but alſo in all vacancies and <hi>inter-regnums,</hi> continuing (if we believe their<note n="*" place="margin">Joſephus Antiq. l. <hi>14.</hi> c. <hi>17.</hi>
+               </note> 
+               <hi>Hiſtori<g ref="char:EOLhyphen"/>an</hi>) until <hi>Herod</hi> put them down to ſecure himſelf of the Kingdom; beſide this, they had inferiour Courts or Conſiſtories in every City, from all which there lay
+<pb n="7" facs="tcp:154015:6"/>an Appeal to the great <hi>Sanhedrim</hi> at <hi>Jeruſa<g ref="char:EOLhyphen"/>lem.</hi> I ſhall not trouble you with the ſe<g ref="char:EOLhyphen"/>veral places of Scripture that allude to theſe Courts, it being ſufficient to my preſent purpoſe to know that they were inſtitu<g ref="char:EOLhyphen"/>ted at the <hi>command of God,</hi> ſupported by his <hi>authority</hi> and aſſiſtance in caſes of great<g ref="char:EOLhyphen"/>er difficulty, and that they continued a<g ref="char:EOLhyphen"/>mong them<note n="†" place="margin">
+                  <hi>Or as</hi> Grot. Notis ad Deut. <hi>17.</hi> uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad tem<g ref="char:EOLhyphen"/>pora Meſſiae, quo miſſo au<g ref="char:EOLhyphen"/>thoritas Sy<g ref="char:EOLhyphen"/>nedrii eva<g ref="char:EOLhyphen"/>nuit.</note> until the <hi>Romans came, and took away both their place and nation.</hi> Now though we cannot draw Arguments from every particular Law and Divine Inſtitu<g ref="char:EOLhyphen"/>tion among the <hi>Jews,</hi> to infer an obligati<g ref="char:EOLhyphen"/>on to the ſame in any other Nation, (they being inſtituted for ſuch peculiar reaſons as agree not to other people:) yet I think in the general an Argument is good, That whatſoever <hi>God</hi> appointed among them (the reaſon continuing the ſame) is expedient and neceſſary in any Government whatſoever. I'm ſure Chriſt introducing the <hi>Chriſtian</hi> Religion upon that of the <hi>Jews</hi> made no alteration as to this Point; our Saviour was tried by the <hi>Sanhedrim,</hi> and ſubmitted to their unjuſt Sentence, <hi>when he ſuffered, he threatned not;</hi>
+               <note place="margin">1 Pet. 2.23.</note>
+               <pb n="8" facs="tcp:154015:7"/>the <hi>Apoſtles</hi> were brought before the <hi>Council,</hi>
+               <note place="margin">Acts 4.</note> and never pleaded to the Juriſdiction of the Court: St. <hi>Paul</hi> particularly acknow<g ref="char:EOLhyphen"/>ledges that <hi>Ananias</hi> ſat to judge him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>according to Law,</hi>
+               <note place="margin">Acts 23.3.</note> and begs pardon of the Court when he had reviled him, al<g ref="char:EOLhyphen"/>ledging his ignorance for excuſe, and ad<g ref="char:EOLhyphen"/>ding that he was inſtructed out of the Law <hi>not to ſpeak evil of the Ruler of God's people.</hi>
+               <note place="margin">Mark 13.9.</note> And the firſt Chriſtians, when they were brought before <hi>Councils</hi> and <hi>Magiſtrates</hi> and <hi>Rulers</hi> (as our Saviour had foretold of them) though the accuſations were falſe, and the crimes could not ſuf<g ref="char:EOLhyphen"/>ficiently be proved againſt them, yet they queſtioned not the Authority of the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate;</hi> if the <hi>Judge judged</hi> them guilty, they patiently ſubmitted themſelves. All this is ſo plain, that I ſhould not have mentioned it, but for the Enthuſiaſtick con<g ref="char:EOLhyphen"/>ceits of ſome of our <hi>Northern Neighbours,</hi> who for the erecting of (what they blaſ<g ref="char:EOLhyphen"/>phemouſly call) the <hi>Kingdom of Chriſt,</hi> cry down all Magiſtrates and Laws, as unne<g ref="char:EOLhyphen"/>ceſſary under the <hi>Goſpel,</hi> and but ſo many infringements of our <hi>Chriſtian Liberty:</hi> the
+<pb n="9" facs="tcp:154015:7"/>extravagance of which errour needs no other confutation, than the horrid confu<g ref="char:EOLhyphen"/>ſions it has, and will always, raiſe where<g ref="char:EOLhyphen"/>ever it ſhall be entertained. And there<g ref="char:EOLhyphen"/>fore,</p>
+            <p n="2">2. 'Tis certainly the great happineſs of a people when there are ſuch <hi>Courts of Judicature</hi> open, and the Laws have their free courſe, that ſo <hi>if one man ſin againſt an<g ref="char:EOLhyphen"/>other, the Judge may judge him.</hi> For either we muſt ſuppoſe men to be ſo juſt and equal of themſelves, as to have no need of <hi>Laws,</hi> or <hi>Judges</hi> to judge them; or elſe we muſt allow <hi>private revenge,</hi> and ſuffer every man to <hi>judge</hi> for himſelf. The firſt of theſe, <hi>viz.</hi> That <hi>men ſhould be juſt and e<g ref="char:EOLhyphen"/>qual without Laws,</hi> we may well talk of, and wiſh for, as a moſt happy condition, and moſt agreeable to the nature and ſub<g ref="char:EOLhyphen"/>lime Excellencies of Mankind; but no man that is ever ſo little acquainted with the World will venture to try the experi<g ref="char:EOLhyphen"/>ment. Among all the diverſities of <hi>Laws</hi> and <hi>Governments</hi> that have been in the World, there was no man ever attempted to eſtabliſh a <hi>Society</hi> without any at all, as
+<pb n="10" facs="tcp:154015:8"/>well knowing that to be wholly impracti<g ref="char:EOLhyphen"/>cable, and thoſe <hi>Societies</hi> have always been lookt on as the moſt proſperous and hap<g ref="char:EOLhyphen"/>py, where the <hi>Laws</hi> have been moſt <hi>equal,</hi> and the execution of them moſt <hi>punctual:</hi> for let men be never ſo well inſtructed in the Precepts of Vertue, and let Religion too come in for a new obligation to Du<g ref="char:EOLhyphen"/>ty, yet ſtill there are <hi>hopes</hi> and <hi>fears,</hi> paſ<g ref="char:EOLhyphen"/>ſions natural to mens minds, and theſe muſt be wrought upon by <hi>Rewards</hi> and <hi>Puniſhments;</hi> and all little enough, God knows, to keep up the face of <hi>Order,</hi> and the <hi>Decorum</hi> of a Society among men. <hi>Nunquam tam bene actum eſt cum rebus huma<g ref="char:EOLhyphen"/>nis ut plures ſint meliores,</hi> the worſe are al<g ref="char:EOLhyphen"/>ways the moſt in number; and ſhould men be let alone to their own inbred Notions of <hi>right</hi> and <hi>wrong,</hi> and <hi>good</hi> and <hi>evil:</hi> the few that would live up to theſe Rules, would be an eaſie prey to the ma<g ref="char:EOLhyphen"/>ny that would deſpiſe them: Without Laws then, and the <hi>execution</hi> of them, we cannot be happy or ſafe. Nor on the other ſide, can it be leſs ruinous to permit <hi>private revenge,</hi> and ſuffer every
+<pb n="11" facs="tcp:154015:8"/>man to <hi>judge</hi> for himſelf. This is what no <hi>equal</hi> man will deſire, and what the <hi>unjuſt</hi> will always abuſe; 'tis to give way to <hi>force</hi> and <hi>violence,</hi> and to let Right be determined by the ſtrength of mens Arms, and ſharpneſs of their Weapons; 'tis to expoſe Innocence, which of it ſelf is but a weak defence againſt blind rage and brutiſh paſſion: We may gueſs to what a wretched eſtate this would reduce us, (if generally allowed) by the evils cauſed a<g ref="char:EOLhyphen"/>mong us by thoſe, that will avenge their Quarrels in private Combats and <hi>Duels:</hi> On what ſlight accounts do men engage in them? To what an heighth of re<g ref="char:EOLhyphen"/>venge are they carried on? and how does the ſhedding of <hi>Bloud</hi> ſtain our Shores, and <hi>the cry</hi> of it invade Heaven?<note place="margin">Rom. 12.19.</note> 
+               <hi>Vengeance is mine, I will repay (ſaith the Lord.)</hi> The Ma<g ref="char:EOLhyphen"/>giſtrate has provided Laws <hi>for the puniſh<g ref="char:EOLhyphen"/>ment of evil Doers,</hi>
+               <note place="margin">1 Pet. 2.14.</note> 
+               <hi>and for the praiſe of them that do well;</hi> but theſe men, as neither <hi>fearing God, nor regarding man,</hi> acknowledge no Laws but their own will, no God<note n="‖" place="margin">
+                  <hi>So</hi> Mezen<g ref="char:EOLhyphen"/>tius in Vir<g ref="char:EOLhyphen"/>gil, Dextra mihi Deus.</note> but their own right hand. A <hi>Barbarity</hi> this, that was firſt introduced into theſe parts of the World, by the incurſions of the <hi>Goths</hi>
+               <pb n="12" facs="tcp:154015:9"/>and <hi>Vandals:</hi> for in the ancient <hi>Greek</hi> and <hi>Roman</hi> Hiſtories we meet with few or no footſteps of this practice among men of Honour: Not that they wanted either Spirit to reſent an injury, or Courage to right themſelves. No men ever expreſt a more generous contempt of life than <hi>theſe</hi> did upon all occaſions; and if at any time they thought it Great and <hi>Roman-like</hi> to dye, the <hi>Draught of Poyſon</hi> or <hi>the Ponyard,</hi> the <hi>Barbers Razor</hi> or <hi>the River,</hi> cannot be more ready now than they were then: but they had not that falſe Notion of <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> among them, that ſo prevails now adays, whereby men perſwade themſelves that the leaſt affront is not to be expiated but with the <hi>blood</hi> of the Offender; that 'tis beneath a man that wears a <hi>Sword</hi> to ſubmit his Cauſe to the deciſion of the <hi>Law,</hi> and therefore they will be their own Judges and Avengers too: in the firſt, they uſurp upon the <hi>Laws of the Land;</hi> in the ſecond, upon the <hi>Laws of God.</hi> If this be true Courage, if it be that <hi>Fortitude</hi> that is recommended as a Vertue, 'tis what no <hi>Moraliſt</hi> has ever yet acquainted us with; 'tis rather the dictate of thoſe
+<pb n="13" facs="tcp:154015:9"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as<note n="‖" place="margin">Rhet. lib. <hi>2.</hi> c. <hi>14.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Ariſtotle</hi> calls them, thoſe warm Youths, whom he would ſcarce allow to be fit <hi>Hearers</hi> of Morality, ſo far are they from being fit <hi>Teachers</hi> of it; 'tis the <hi>Ethicks of a Fencing-School.</hi> If this be an evil among us that is grown too great for a remedy, I hope we may be permitted without affront to lament it as the unhappineſs of our times, that under ſuch excellent <hi>Civil Conſtitutions,</hi> and a <hi>Re<g ref="char:EOLhyphen"/>ligion ſo well reformed,</hi> as we live; men ſhould yet be given over to that degree of <hi>madneſs,</hi> as to throw away their <hi>Souls,</hi> for which they are to give an account to Al<g ref="char:EOLhyphen"/>mighty God; their <hi>Lives,</hi> which they owe to the Service of their <hi>King</hi> and Country; their <hi>Eſtates,</hi> for which they are in ſome ſort indebted to their Poſte<g ref="char:EOLhyphen"/>rity; and their <hi>Fame</hi> and <hi>Reputation,</hi> for which they are accountable to the whole World; and all this upon ſuch pitiful and trivial accounts, as any <hi>great or wiſe man</hi> muſt needs think fooliſh and beneath him. So then if we cannot ſubſiſt, much leſs be happy, without <hi>Laws,</hi> or at the mercy of every one that will make <hi>Laws,</hi> and execute them himſelf; our happineſs
+<pb n="14" facs="tcp:154015:10"/>muſt conſiſt (as it does) in that our Laws are in the hands of ſuch men as are deſcri<g ref="char:EOLhyphen"/>bed in <hi>Deut.</hi> 1. <hi>Men of wiſdom and under<g ref="char:EOLhyphen"/>ſtanding, men of courage and integrity, that will hear the Cauſes between us, and judge righ<g ref="char:EOLhyphen"/>teouſly between every man and his brother; that will not reſpect perſons in Judgment, but will hear the ſmall as well as the great, that will not be afraid of the face of man, for the judgment is God's.</hi> And hence it follows,</p>
+            <p n="3">3. That 'tis the Duty of every private perſon to ſubmit to the <hi>Judgments and Sen<g ref="char:EOLhyphen"/>tences</hi> of ſuch men; for <hi>if one man ſin againſt another, the Judge muſt judge him.</hi> Tis eve<g ref="char:EOLhyphen"/>ry man's Duty, as he is Member of a <hi>Society,</hi> to contribute what he can to the <hi>proſperity and welfare</hi> of it. And this <hi>proſ<g ref="char:EOLhyphen"/>perity</hi> conſiſts mainly in keeping the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> Authority intire and in repute; which, next under God's Providence, is the great ſupport of any <hi>Government.</hi> Now the chief end of the <hi>Magiſtrates</hi> Power is to compoſe Quarrels and Diſputes, how<g ref="char:EOLhyphen"/>ſoever they are raiſed; and, when men will neither be perſwaded by <hi>reaſon,</hi> nor inclined by <hi>good nature,</hi> to force them to be juſt and equal by <hi>exemplary Puniſhments;</hi>
+               <pb n="15" facs="tcp:154015:10"/>for a man then to decline the Sentence of the <hi>Judge,</hi> and to take any other way to right himſelf, is to vacate all <hi>Authority,</hi> and to diſſolve the very Bonds and Liga<g ref="char:EOLhyphen"/>ments of <hi>Society.</hi> Beſides the obligations of <hi>Oaths</hi> and <hi>Covenants</hi> to obedience, even <hi>moral honeſty</hi> and <hi>gratitude it ſelf</hi> ſhould teach us to ſubmit: for how can we otherwiſe anſwer the happineſs we enjoy in the pro<g ref="char:EOLhyphen"/>tection of the <hi>Laws?</hi> Whence it comes to paſs that every man calls what he has, his own; that in the Scripture-Phraſe,<note place="margin">Micah 4 4.</note> 
+               <hi>We may ſit every man under his own Vine, and un<g ref="char:EOLhyphen"/>der his own Fig-tree,</hi>
+               <note place="margin">Prov. 5.15.</note> 
+               <hi>and drink the waters of his own Ciſtern;</hi> if in return we do not wil<g ref="char:EOLhyphen"/>lingly abide the tryal of the <hi>Law,</hi> and ſub<g ref="char:EOLhyphen"/>mit to the penalty when we are found <hi>guilty.</hi> Saint <hi>Paul</hi> takes it ſo much for granted, <hi>That an Oath for confirmation is</hi> (and ought to be) <hi>an end of all ſtrife,</hi> that he thereby illuſtrates the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>immutability of Gods counſel,</hi> Heb. 6.16, 17. And this Oath (ſaith <hi>Eſtius</hi> upon that place) ought to be <hi>coram Judice;</hi> upon which evidence a <hi>Sentence</hi> pronounced has by all civilized Nations been ever reckon<g ref="char:EOLhyphen"/>ed ſacred and inviolable. No man then
+<pb n="16" facs="tcp:154015:11"/>dares appeal from the <hi>Laws</hi> to himſelf, but the <hi>lawleſs</hi> and diſobedient, who there<g ref="char:EOLhyphen"/>fore hate the Laws becauſe they fear them. And thus have I done with the firſt ſort of ſins, whereby one man ſins againſt another; I come now to conſider,</p>
+            <p n="2">II. The <hi>ſins</hi> whereby we <hi>ſin againſt God,</hi> of which it is ſaid, <hi>If a man ſin againſt the Lord, who ſhall intreat for him?</hi> Whence I obſerve theſe two things:
+<list>
+                  <item>1. That <hi>ſins againſt God</hi> leave a man in a more deſperate eſtate, than thoſe where<g ref="char:EOLhyphen"/>by <hi>one man ſins againſt another.</hi>
+                  </item>
+                  <item>2. That therefore a greater <hi>care</hi> ſhould be taken to avoid theſe <hi>ſins,</hi> and a greater degree of <hi>ſorrow</hi> and repentance when we fall into them.</item>
+               </list>
+            </p>
+            <p n="1">1. That <hi>ſins againſt God</hi> leave a man in a more deſperate eſtate, than thoſe where<g ref="char:EOLhyphen"/>by <hi>one man ſins againſt another.</hi> For in this latter caſe reſtitution may be made to the perſon wronged, and ſatisfaction to the Law, and <hi>God</hi> may alſo pleaſe to accept of theſe ſufferings, and remit the guilt: But when a man ſins with an high hand, aiming directly at the Perſon and Maje<g ref="char:EOLhyphen"/>ſty of <hi>God,</hi> what can he propoſe to make
+<pb n="17" facs="tcp:154015:11"/>an atonement?<note place="margin">Heb. 10.27.</note> 
+               <hi>There remains no more ſacri<g ref="char:EOLhyphen"/>crifice for ſuch ſins; but a certain fearful looking for of Judgment and fiery indignation, to devour thoſe adverſaries.</hi> Theſe ſins are ſo common among us, that I need not name them, but to wonder withal how they come to be ſo little regarded. Such are <hi>blaſphemy and curſing, raſh and falſe Oaths, abuſe of God's Word, ridiculing the holy Scriptures, Sacrilege, and contempt of things Sacred, Idolatry, Irreli<g ref="char:EOLhyphen"/>gion</hi> and <hi>Atheiſm</hi> it ſelf. Theſe are the <hi>cauſae majores</hi> in God's Canon-Law, that are reſerved for the higheſt Tribunal; theſe too men may puniſh, as far as con<g ref="char:EOLhyphen"/>cerns the <hi>Publick,</hi> to hinder the ſpreading and prevalence of them: but who ſhall remit, or who can inflict God's part of the <hi>penalty? No man may deliver his Brother,</hi>
+               <note place="margin">Pſal. 49.7, 8.</note> 
+               <hi>or make an agreement unto God for him; for it coſt more to redeem their ſouls, ſo that he muſt let that alone for ever.</hi> The dignity of the perſon offended, the obligations he has laid upon us, and conſequently the Duty we owe him, the abuſe of his mercy, pre<g ref="char:EOLhyphen"/>ſuming upon his Goodneſs, and ſlighting his acts of Grace, (which ſingle are great aggravations) do all concur here; and
+<pb n="18" facs="tcp:154015:12"/>though the ſin be thus heightned, yet all the uſual methods of atonement fail us too: He that has diſhonoured <hi>God,</hi> can never make amends by his after-endeavours to ſet forth his Glory; for this is but his <hi>Duty,</hi> and can quit no Scores: there is no hope to palliate or blanch a crime before him that knows not the matter of Fact only, but the very deſign and intention of the A<g ref="char:EOLhyphen"/>ctor. He may intreat others to pray for him: I dare not ſay their prayers will be altogether in vain: but St. <hi>John</hi> hath told us, that he can give no encouragement to pray for thoſe that <hi>ſin a ſin unto death,</hi>
+               <note place="margin">1 Joh. 5.16.</note> i. e. are guilty of any heinous and daring im<g ref="char:EOLhyphen"/>piety. Thus in the caſe before us, the iniquity of <hi>Eli</hi>'s Sons, who had made themſelves <hi>vile or accurſed,</hi>
+               <note place="margin">1 Sam. 3.14.</note> could not be <hi>purged with ſacrifice, nor offering for ever.</hi> And we read in the Hiſtory of <hi>Job,</hi> that while his <hi>Sons</hi> were feaſting one another, and revelling in all the luxury of a plenteous Fortune, the pious <hi>Father</hi> was careful to offer <hi>burnt-offerings</hi> for each of them: for (ſaid he) it <hi>may be that my Sons have ſinned,</hi>
+               <note place="margin">Job 1.5.</note> 
+               <hi>and curſed God in their hearts,</hi> and no doubt but the good man had reaſon enough to
+<pb n="19" facs="tcp:154015:12"/>ſuſpect his <hi>Sons</hi> might be thus guilty: but however that were, his Sacrifices prevail<g ref="char:EOLhyphen"/>ed little; for they were all deſtroyed by a very ſignal Judgment. Whither then can we fly but to that <hi>God</hi> whom we have of<g ref="char:EOLhyphen"/>fended? from his Juſtice we may appeal to his Mercy: but when we have ſinned againſt that too, when Mercy it ſelf ſhall condemn us, <hi>Who then ſhall intreat for us?</hi> The reſult of all is,</p>
+            <p n="2">2. That the greateſt <hi>care</hi> ſhould be ta<g ref="char:EOLhyphen"/>ken to avoid thoſe <hi>Sins,</hi> and a very great degree of <hi>ſorrow</hi> and repentance when we fall into them. For where the danger is every way ſo great, and no other means left of eſcaping it, we need not be long to determine our ſelves in the choice; indeed there is nothing ſo eaſie, if we rightly conſider it, as to keep our ſelves from <hi>ſin<g ref="char:EOLhyphen"/>ning againſt God:</hi> to fear him as our <hi>Lord,</hi> to love him as our <hi>Benefactor,</hi> to obey him as the <hi>ſupreme Governour of the World,</hi> is na<g ref="char:EOLhyphen"/>tural to us as men, and highly becoming us as his Creatures. We can pretend no temptation to diſhonour him; it muſt be the effect either of <hi>inveterate malice,</hi> or <hi>groſs inconſideration.</hi> The <hi>Adulterer</hi> and the
+<pb n="20" facs="tcp:154015:13" rendition="simple:additions"/>
+               <hi>Drunkard</hi> may talk of gratifying their luſts and appetites; the <hi>ambitious</hi> and <hi>revengeful</hi> man may raiſe himſelf upon the ruines of his Adverſary; the <hi>Thief</hi> gets by his ſteal<g ref="char:EOLhyphen"/>ing, and the <hi>covetous man</hi> lays up ſome<g ref="char:EOLhyphen"/>thing in ſtore; but he that <hi>ſins againſt God</hi> can pretend to none of theſe; he gratifies no luſt, ſerves no appetite, gets neither pleaſure nor wealth, is not the richer or the more eſteemed, but <hi>ſells himſelf to work wickedneſs</hi> at no rate. A man but of ordi<g ref="char:EOLhyphen"/>nary prudence will not eaſily provoke an Adverſary he knows he can no way prevail againſt,<note place="margin">1 Cor. 10.22.</note> 
+               <hi>Why then do we provoke the Lord to jealouſie? are we ſtronger than he?</hi> A man that ſhall ſcorn to do an <hi>ill</hi> or a <hi>low</hi> thing, a man that is jealous of his own Honour to the laſt Point, and ſenſible of the leaſt abuſe that is put upon him, ſhall yet diſ<g ref="char:EOLhyphen"/>honour <hi>God</hi> in his <hi>Day,</hi> in his <hi>Church,</hi> in his <hi>Service,</hi> in any thing that belongs unto him, and make light of it: This, as it ſhews the great danger of corruption in<g ref="char:EOLhyphen"/>to which we are fallen, ſo it ſhould like<g ref="char:EOLhyphen"/>wiſe ſhow us what we are to do to reco<g ref="char:EOLhyphen"/>ver the Dignity of our Nature, the Perfe<g ref="char:EOLhyphen"/>ctions of our Being. We cannot higher
+<pb n="21" facs="tcp:154015:13"/>advance our ſelves, than by drawing near unto <hi>God</hi> in doing him worſhip; and he has ſaid it, <hi>Thoſe that honour me, I will honour;</hi>
+               <note place="margin">1 Sam. 2.30.</note> 
+               <hi>and they that deſpiſe me, ſhall be lightly eſteemed.</hi> Men cannot be ſo ſtupid as to think God's Judgments ſhall never overtake them, becauſe they are ſpared a while:<note n="*" place="margin">Plutar. de ſera Numi<g ref="char:EOLhyphen"/>nis vindicta.</note> All the wiſe men in the World have ever dreaded a <hi>vengeance</hi> that is <hi>ſlow</hi> and long a coming. Whoever then reflecting upon his former life, ſhall find himſelf guilty of thoſe <hi>ſins</hi> for which there is no remedy, unleſs it ſhall pleaſe God to accept his <hi>ſor<g ref="char:EOLhyphen"/>row</hi> and repentance, let him earneſtly re<g ref="char:EOLhyphen"/>pent, and be heartily ſorry for theſe his miſ-doings. It was the Prophet <hi>Jeremiah</hi>'s courſe, <hi>Lament.</hi> 1.16. <hi>For theſe things I weep, mine eye, mine eye runneth down with wa<g ref="char:EOLhyphen"/>ter, becauſe the Comforter that ſhould relieve my ſoul is far from me.</hi> Let his repentance be as ſincere as his fault has been heinous, and then who knows but <hi>God</hi> too may <hi>re<g ref="char:EOLhyphen"/>turn</hi> and <hi>repent, and leave a bleſſing behind him.</hi>
+            </p>
+            <p>And thus I have gone through the Se<g ref="char:EOLhyphen"/>verals I obſerved from the Text: But I ſhould forget that we are not under the
+<pb n="22" facs="tcp:154015:14"/>
+               <hi>Law,</hi>
+               <note place="margin">Rom. 6.14.</note> but under <hi>Grace,</hi> if in concluſion I ſhould not ſupply the ſenſe that <hi>Eli</hi> hath left imperfect, by anſwering the Queſti<g ref="char:EOLhyphen"/>on here propoſed, <hi>If a man ſin againſt the Lord, who ſhall intreat for him?</hi> Take the Anſwer in the words of S. <hi>John,</hi>
+               <note place="margin">1 Joh. 2.1, 2.</note> 
+               <hi>If any man ſin, we have an Advocate with the Father Je<g ref="char:EOLhyphen"/>ſus Chriſt the righteous: and he is the propitia<g ref="char:EOLhyphen"/>tion for our ſins.</hi> We need no other <hi>Media<g ref="char:EOLhyphen"/>tor</hi> to intercede for us, neither do we put our truſt in any other; his Merits are all<g ref="char:EOLhyphen"/>ſufficient, his Interceſſion is moſt power<g ref="char:EOLhyphen"/>ful. Let us therefore beſeech him <hi>by his Agony and Bloody Sweat, by his Croſs and Paſ<g ref="char:EOLhyphen"/>ſion, by his precious Death and Burial, by his glorious Reſurrection and Aſcenſion,</hi> to deli<g ref="char:EOLhyphen"/>ver us from the wrath to come.</p>
+            <p>
+               <hi>To him, with the Father and the Holy Ghoſt, be aſcribed all Honour, Praiſe and Glory, now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154015:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
